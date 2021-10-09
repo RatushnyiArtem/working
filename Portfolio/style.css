@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Yaldevi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&family=Mukta:wght@300&family=Yaldevi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&family=Mukta:wght@300&family=Padauk&family=Yaldevi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&family=Yaldevi&display=swap');
+table{
+    margin: auto;
+    width: 100px;
+    height: 100px;
+}
+.start{
+    width: 700px;
+    height: 400px;
+border: thin;
+    border-radius: 1%;
+    box-shadow: 0px 0px 10px black;
+}
+
+  
+
+.end{
+    width: 600px;
+    height: 943px;
+    border-radius: 1%;
+    box-shadow: 0px 0px 10px black;
+    margin-left: 20px;
+    border: thin;
+    
+    
+}
+img{
+    border-radius: 100%;
+    height: 350px;
+    width: 400px;
+    display: block;
+    margin: auto;
+    
+}
+tr{
+    border: thin;
+}
+.trc{
+    border: thin;
+}
+body{
+    background-color: rgb(218, 208, 208);
+}
+.find{
+    border: thin;
+}
+li{
+margin-left: 10px;
+}
+h3{
+    margin-left: 10px;
+    font-family: 'Padauk', sans-serif;
+}
+.date{
+    margin-left: 10px;
+}
+ hr{
+     border: 1px inset black;
+     width: 650px;
+ } 
+ tr{
+     border-bottom: 1px solid;
+ }
+.gog{
+    text-align: center;
+    background-color: rgb(6, 118, 126);
+    text-decoration: none;
+    color: honeydew;
+    border: 3px inset black;
+    display: table;
+    margin: auto;
+    font-size: 15px;
+    width: 150px;
+}
+h1{
+    font-family: 'Mukta', sans-serif;
+}
+b{
+    font-family: 'Josefin Sans', sans-serif;    
+}
+li{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 20px;
+}

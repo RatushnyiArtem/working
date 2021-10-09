@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&family=Inconsolata:wght@500&display=swap');
+body{
+background-color: rgb(224, 213, 213);
+}
+.name{
+    color: rgb(72, 73, 65);
+    font-size: 320%;
+    font-family: 'Montserrat', sans-serif;
+}
+a{
+    color: rgb(255, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 128%;
+}
+img{
+height: 250px;
+width: 250px;
+border-radius: 100%;
+}
+ol{
+color: rgb(160, 0, 252);
+font-size: 128%;
+}
+.inst{
+color:blue;
+}
+.front{
+color: rgb(24, 24, 24);
+font-family: 'Birthstone', cursive;
+font-size: 140%;
+}
+.name2{
+font-family: 'Inconsolata', monospace;
+}
+hr{
+border: none;
+height: 2px;
+background-color: rgb(248, 155, 15);
+}

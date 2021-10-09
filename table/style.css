@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Economica:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+.main{
+   height: 980px;
+   width: 700px;
+   border: 2px inset black;
+   margin: auto;
+   box-shadow: 0 0 17px black;
+   border-radius: 2%;
+   margin-left: 20px;
+   margin-top: 5px;
+   border: thin;
+
+   
+}
+.vov{
+   border: thin;
+   border-bottom: 2px inset black;
+   display: block;
+   margin: auto;
+   width: 630px;
+   margin-bottom: 20px;
+   
+}
+.lol{
+   display: block;
+   border: thin;
+}
+a{
+   text-decoration: none;
+}
+div{
+   display: table;
+   text-align: center;
+   background-color: green;
+   margin: auto;
+   border: 2px inset black;
+   padding-left: 35px;
+   padding-right: 35px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
+.cont{
+   color: white;
+   text-align: center;
+   margin: auto;
+   font-family: 'Creepster', cursive;
+   font-size: 20px;
+}
+td{
+   padding-bottom: 20px;
+   padding-top: 20px;
+   border: thin;
+}
+.block{
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+.twe{
+   display: block;
+   padding-top: 20px;
+}
+.inter{
+   text-decoration: none;
+   color:black
+}
+img{
+   border-radius: 100%;
+   width: 360px;
+   height: 300px;
+   margin: auto; 
+   display: block;
+}
+.fro{
+   width: 100px;
+   height: 100px;
+   margin: auto;
+}
+.crg{
+   height: 400px;
+   width: 700px;
+   border: 2px inset black;
+   margin: auto;
+   box-shadow: 0 0 17px black;
+   border-radius: 2%;
+   margin-top: 2px;
+   border: thin;
+}
+b{
+   font-family: 'Inconsolata', monospace;
+}
+li{
+   font-family: 'Special Elite', cursive;
+}
+h1{
+   font-family: 'Abril Fatface', cursive;
+}
+

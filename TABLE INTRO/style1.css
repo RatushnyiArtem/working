@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Gemunu+Libre:wght@500&family=Stick+No+Bills:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@500&family=Stick+No+Bills:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@500&display=swap');
+body{
+    background-color: red ;
+}
+.poster{
+margin: 0 auto;
+display: block;
+border-radius: 100%;
+}
+table{
+margin: auto;
+}
+.iron{
+height: 150px;
+width: 150px;
+border-radius: 100%;
+}
+.capitan{
+height: 150px;
+width: 150px;
+border-radius: 100%;
+}
+.wolverine{
+height: 150px;
+width: 200px;
+border-radius: 100%;
+}
+.chinesse{
+height: 150px;
+width: 150px;
+border-radius: 100%;
+}
+.hulk{
+height: 150px;
+width: 150px;
+border-radius: 100%;
+}
+.tor{
+height: 150px;
+width: 150px;
+border-radius: 100%;
+}
+.loki{
+height: 150px;
+width: 150px;
+border-radius: 100%;
+}
+.widow{
+height: 150px;
+width: 150px;
+border-radius: 100%;
+}
+.head{
+background-color: darkblue;
+color: white;
+}
+table{
+background-color: yellow;   
+margin: auto;
+text-align: center;
+border: 2px dashed black;
+border-collapse: collapse;
+}
+tr{
+border: 2px dotted black;
+}
+td{
+border: 2px inset black;
+font-family: 'Gemunu Libre', sans-serif;
+font-size: 25px;
+color: rgb(0, 0, 0)    ;
+}
+th{
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 30px;
+}
+h1{
+    font-family: 'Stick No Bills', sans-serif;  
+    font-size: 50px;
+}
+.contact{
+    text-align: top right;
+}

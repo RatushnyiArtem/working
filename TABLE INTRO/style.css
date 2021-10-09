@@ -1,0 +1,22 @@
+table{
+background-color: crimson;
+border: 2px inset rgb(0, 17, 0);
+color: darkblue;
+width: 700px;
+height: 500px;
+margin: auto;
+text-align: center  ;
+}
+.head{
+    background-color: forestgreen;
+}
+.lesson{
+    background-color: fuchsia;
+
+}
+img{
+height: 50px;
+width: 50px;
+margin-bottom: -20px;
+border-radius: 100%;
+}

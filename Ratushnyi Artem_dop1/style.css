@@ -1,0 +1,35 @@
+th{
+color:  rgb(141, 141, 71);
+}
+.name{
+    background-color: rgb(87, 25, 25);
+    color: white;
+}
+table{
+    text-align: center;
+    border: 3px inset black;
+    margin: auto;
+    width: 1899px;
+    height: 700px;
+
+}
+.head{
+background: linear-gradient(to left, black, red);
+}
+td{
+    color: rgb(63, 63, 214);
+}
+.name1{
+background-color: rgb(133, 53, 53);
+color: white;
+}
+.fail{
+background-color: brown;
+color: white;
+}
+.intro{
+    background: linear-gradient(to left, brown,white);
+}
+td{
+border: thin;
+}
