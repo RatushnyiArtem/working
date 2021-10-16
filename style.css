@@ -30,9 +30,10 @@ ul{
     list-style: inside;
 }
 td:hover{
-    border: 2px inset black;
+    border: 2px inset rgb(7, 177, 255);
     height: 600px;
     width: 400px;
+    box-shadow: 0 0 10px rgb(97, 97, 187);
 }
 td{
     text-align: center;
